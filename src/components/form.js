@@ -18,7 +18,6 @@ export default class Form extends Component {
                     />
                     <span className="input-group-btn">
                         <button
-                            type="button"
                             disabled={this.props.disabled}
                             className="btn btn-primary"
                         >Search</button>
