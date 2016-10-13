@@ -1,0 +1,9 @@
+.list {
+    text-align: left;
+}
+
+.item {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
